@@ -1,0 +1,2 @@
+﻿# MapExplorer
+MapExplorer I've developed a simple website where map and other data are fetched from a database based on the address entered into the URL bar. The website also features an autocomplete search bar. Technologies Used: -Django: Utilized for backend development, handling server-side logic and database operations. -JavaScript: Employed for frontend interactivity, facilitating dynamic updates and user interaction. -HTML/CSS: Used for structuring and styling the website's layout and appearance.
