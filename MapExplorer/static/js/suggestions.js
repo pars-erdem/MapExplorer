@@ -1,0 +1,1 @@
+let suggestions = ["adana_siyasi", "adana_nufusu", "adana_fiziki", /* diğer şehirler */ ];
